@@ -2,7 +2,15 @@
 
 Esse projeto foi criado para praticar uso de API e da tecnologia Raeact. Ultilizando CSS3 puro sem nenhum framwork foi possível resolver o desafio visual para ficar com a cara da Netflix.  Além do uso do React o desenvolvimento foi feito de forma responsiva adaptando-se para tablets e celulares.
 
-##
+<div>
+<img style="border-radius:50px;" 
+src="https://media.discordapp.net/attachments/850166657191247913/933726206770163772/unknown.png?width=960&height=473">
+
+<img style="border-radius:50px;" src="https://media.discordapp.net/attachments/850166657191247913/933726522827751494/unknown.png?width=962&height=473">
+
+
+<img style="border-radius:50px;" src="https://media.discordapp.net/attachments/850166657191247913/933726739966861332/unknown.png?width=962&height=473>
+</div>
 
 
 
