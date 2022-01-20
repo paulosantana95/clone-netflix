@@ -1,3 +1,18 @@
+# Netflix Clone
+
+Esse projeto foi criado para praticar uso de API e da tecnologia Raeact. Ultilizando CSS3 puro sem nenhum framwork foi possível resolver o desafio visual para ficar com a cara da Netflix.  Além do uso do React o desenvolvimento foi feito de forma responsiva adaptando-se para tablets e celulares.
+
+##
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
