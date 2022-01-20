@@ -9,7 +9,7 @@ src="https://media.discordapp.net/attachments/850166657191247913/933726206770163
 <img style="border-radius:50px;" src="https://media.discordapp.net/attachments/850166657191247913/933726522827751494/unknown.png?width=962&height=473">
 
 
-<img style="border-radius:50px;" src="https://media.discordapp.net/attachments/850166657191247913/933726739966861332/unknown.png?width=962&height=473>
+<img style="border-radius:50px;" src="https://media.discordapp.net/attachments/850166657191247913/933726739966861332/unknown.png?width=962&height=473">
 </div>
 
 
